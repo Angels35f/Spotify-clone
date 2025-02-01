@@ -183,13 +183,3 @@ body {
     cursor: pointer;
     flex-shrink: 0;
 }
-.arrow-left{
-    position: relative;
-    top: 10px;
-    left: 330px;
-}
-.arrow-right{
-    position: relative;
-    top: 10px;
-    left: 330px;
-}
